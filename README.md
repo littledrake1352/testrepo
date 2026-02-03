@@ -17,5 +17,5 @@ python firstpython.py
 ## Output
 
 ```
-First Python Print
+test claude
 ```
