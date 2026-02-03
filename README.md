@@ -17,5 +17,5 @@ python firstpython.py
 ## Output
 
 ```
-test claude
+Test claude 2
 ```
